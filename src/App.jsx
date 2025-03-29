@@ -36,7 +36,7 @@ const projects = [
       frontend: "https://github.com/DL101003/ReUZit_FE.git",
       backend: "https://github.com/DL101003/ReUZit.git"
     },
-    image: "/images/reuzit.png"
+    image: "./images/reuzit.png"
   },
   {
     id: 2,
@@ -44,7 +44,7 @@ const projects = [
     description: "Hệ thống quản lý bán hàng thực phẩm chức năng với tính năng theo dõi đơn hàng, thống kê bán hàng và quản lý khách hàng.",
     technologies: ["C#", ".NET MVC", "SQL Server", "Chart.js", "Bootstrap"],
     link: "https://github.com/DL101003/.Net-Ecommerce.git",
-    image: "/images/innerglow.png"
+    image: "./images/innerglow.png"
   },
 ];
 
