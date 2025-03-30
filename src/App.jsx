@@ -233,7 +233,7 @@ const Portfolio = () => {
               <FadeIn delay={600} direction="left">
                 <div className="relative">
                   <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
-                    <img src="/api/placeholder/400/400" alt="Hoàng Văn Lộc" className="w-full h-full object-cover" />
+                    <img src="./images/myimage.jpg" alt="Hoàng Văn Lộc" className="w-full h-full object-cover" />
                   </div>
                   <div className="absolute -bottom-4 -right-4 bg-white p-3 rounded-full shadow-lg">
                     <Code size={28} className="text-blue-600" />
